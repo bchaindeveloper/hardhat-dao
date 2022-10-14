@@ -5,12 +5,6 @@ Decentralized Autonomous Organization
 <!-- GETTING STARTED -->
 # Getting Started 
 
-Work with this repo in the browser (optional)<br/>
-
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/PatrickAlphaC/dao-template)
-
-It's recommended that you've gone through the [hardhat getting started documentation](https://hardhat.org/getting-started/) before proceeding here. 
-
 ## Requirements
 
 - [git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
@@ -27,7 +21,7 @@ It's recommended that you've gone through the [hardhat getting started documenta
 
 1. Clone this repo:
 ```
-git clone https://github.com/PatrickAlphaC/dao-template
+git clone https://github.com/bchaindeveloper/hardhat-dao.git
 cd dao-template
 ```
 2. Install dependencies
@@ -125,25 +119,6 @@ See the [open issues](https://github.com/PatrickAlphaC/dao-template/issues) for 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
-
-<!-- CONTRIBUTING -->
-## Contributing
-
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
-Don't forget to give the project a star! Thanks again!
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
 <!-- LICENSE -->
 ## License
 
@@ -154,7 +129,8 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-* [Patrick Colins FreeCodeCamp Tutorial](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=107124s)
+
+* [This is part of Patrick Colins FreeCodeCamp Tutorial](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=107124s)
 * [Openzeppelin Governance Walkthrough](https://docs.openzeppelin.com/contracts/4.x/governance)
 * [Openzeppelin Governance Github](https://github.com/OpenZeppelin/openzeppelin-contracts/tree/master/contracts/governance)
 * [Vitalik on DAOs](https://blog.ethereum.org/2014/05/06/daos-dacs-das-and-more-an-incomplete-terminology-guide/)
