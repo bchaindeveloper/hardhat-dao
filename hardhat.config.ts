@@ -16,6 +16,11 @@ const ETHERSCAN_API_KEY = process.env.ETHERSCAN_API_KEY || ""
 
 const config: HardhatUserConfig = {
   defaultNetwork: "hardhat",
+  namedAccounts: {
+    deployer: {
+      default: 0,
+    },
+  },
   networks: {
     hardhat: {
       chainId: 31337,
