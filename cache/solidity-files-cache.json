@@ -1192,8 +1192,8 @@
       ]
     },
     "/home/dev/Desktop/projects/Web3JS/hardhat-dao/contracts/governance_standard/TimeLock.sol": {
-      "lastModificationDate": 1665761171128,
-      "contentHash": "89a300a87acc59f897560bd0dc84d7e9",
+      "lastModificationDate": 1665768879887,
+      "contentHash": "9d59e7b811ca410f3a6f9f5f294be4d0",
       "sourceName": "contracts/governance_standard/TimeLock.sol",
       "solcConfig": {
         "version": "0.8.8",
@@ -1284,50 +1284,6 @@
         "GovernorContract"
       ]
     },
-    "/home/dev/Desktop/projects/Web3JS/hardhat-dao/node_modules/@openzeppelin/contracts/governance/extensions/GovernorSettings.sol": {
-      "lastModificationDate": 1665755573744,
-      "contentHash": "2c6e87fa9b63c7ef8579eb4ae937d4c2",
-      "sourceName": "@openzeppelin/contracts/governance/extensions/GovernorSettings.sol",
-      "solcConfig": {
-        "version": "0.8.8",
-        "settings": {
-          "optimizer": {
-            "enabled": true,
-            "runs": 200
-          },
-          "outputSelection": {
-            "*": {
-              "*": [
-                "abi",
-                "evm.bytecode",
-                "evm.deployedBytecode",
-                "evm.methodIdentifiers",
-                "metadata",
-                "devdoc",
-                "userdoc",
-                "storageLayout",
-                "evm.gasEstimates"
-              ],
-              "": [
-                "ast"
-              ]
-            }
-          },
-          "metadata": {
-            "useLiteralContent": true
-          }
-        }
-      },
-      "imports": [
-        "../Governor.sol"
-      ],
-      "versionPragmas": [
-        "^0.8.0"
-      ],
-      "artifacts": [
-        "GovernorSettings"
-      ]
-    },
     "/home/dev/Desktop/projects/Web3JS/hardhat-dao/node_modules/@openzeppelin/contracts/governance/extensions/GovernorCountingSimple.sol": {
       "lastModificationDate": 1665755573744,
       "contentHash": "02b1526768c0ab245c630eb5a6b160fc",
@@ -1370,6 +1326,50 @@
       ],
       "artifacts": [
         "GovernorCountingSimple"
+      ]
+    },
+    "/home/dev/Desktop/projects/Web3JS/hardhat-dao/node_modules/@openzeppelin/contracts/governance/extensions/GovernorSettings.sol": {
+      "lastModificationDate": 1665755573744,
+      "contentHash": "2c6e87fa9b63c7ef8579eb4ae937d4c2",
+      "sourceName": "@openzeppelin/contracts/governance/extensions/GovernorSettings.sol",
+      "solcConfig": {
+        "version": "0.8.8",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata",
+                "devdoc",
+                "userdoc",
+                "storageLayout",
+                "evm.gasEstimates"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          },
+          "metadata": {
+            "useLiteralContent": true
+          }
+        }
+      },
+      "imports": [
+        "../Governor.sol"
+      ],
+      "versionPragmas": [
+        "^0.8.0"
+      ],
+      "artifacts": [
+        "GovernorSettings"
       ]
     },
     "/home/dev/Desktop/projects/Web3JS/hardhat-dao/node_modules/@openzeppelin/contracts/governance/extensions/GovernorVotes.sol": {

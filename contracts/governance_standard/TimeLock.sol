@@ -7,7 +7,7 @@ import "@openzeppelin/contracts/governance/TimelockController.sol";
 contract TimeLock is TimelockController {
     constructor(
         uint256 minDelay,
-        address[] memory preposers,
+        address[] memory proposers,
         address[] memory executors
-    ) TimelockController(minDelay, preposers, executors) {}
+    ) TimelockController(minDelay, proposers, executors) {}
 }
