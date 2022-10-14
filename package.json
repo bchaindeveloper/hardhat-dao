@@ -27,5 +27,10 @@
     "ts-node": "^10.9.1",
     "typechain": "^8.1.0",
     "typescript": "^4.8.4"
+  },
+  "repository": "https://github.com/bchaindeveloper/hardhat-dao.git",
+  "author": "bchaindeveloper <bcdev3@protonmail.com>",
+  "dependencies": {
+    "fs": "^0.0.1-security"
   }
 }
