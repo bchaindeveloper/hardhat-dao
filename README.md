@@ -1,5 +1,7 @@
 # Hardhat Dao
 
+![Screenshot](Screenshot.png)
+
 Decentralized Autonomous Organization
 
 <!-- GETTING STARTED -->
